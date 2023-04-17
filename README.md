@@ -1,7 +1,7 @@
 # nodejs-project
 
-![Screen Shot](./develop/screenshot:node.index.png)
-![Screen Shot](./develop/screenshot:readme.png)
+![Screen Shot](./develop/screenshot%3Anode.index.png)
+![Screen Shot](./develop/screenshot%3Areadme.png)
 
 ### **Table of Contents**
 
